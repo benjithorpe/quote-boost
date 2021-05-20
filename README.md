@@ -1,4 +1,3 @@
-# dsti-scraper
-> (Directorate of Science, Technology and Innovation)
+# Quote Boost
 
-Scrape job openings from DSTI website(https://www.dsti.gov.sl/)
+Generates random Inspirational and Motivational quotes.
