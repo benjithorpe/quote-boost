@@ -78,6 +78,10 @@ p#content{
 @media screen and (min-width: 768px){
   main{ width: 70%; }
   #nextBtn:hover{ background-color: navy; }
+  p#content{
+    width: 60ch;
+    margin: auto;
+  }
 }
 
 @media screen and (min-width: 992px){
